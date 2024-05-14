@@ -52,6 +52,5 @@ git command
 > git branch namabranch untuk membuat branch
 > git branch list branch
 
-nambahi di branch baru
-
-nambahi di branch master
+> git clone untuk cloning dan pushnya ke repo sumber
+> git fork mengambil ke repo kita dari repo sumber dan utk push ke repo kita
