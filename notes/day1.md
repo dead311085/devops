@@ -41,5 +41,3 @@ defacto source control tools in the universe is git
 [link](https://git-scm.com/downloads) disini
 
 coba tambah
-
-tambah yang salah
