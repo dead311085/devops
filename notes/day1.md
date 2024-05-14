@@ -53,3 +53,5 @@ git command
 > git branch list branch
 
 nambahi di branch baru
+
+nambahi di branch master
