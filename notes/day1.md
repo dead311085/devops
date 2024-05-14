@@ -41,3 +41,15 @@ defacto source control tools in the universe is git
 [link](https://git-scm.com/downloads) disini
 
 coba tambah
+
+git command
+
+> git command
+> git add . untuk menambahkan
+> git status untuk mengecek folder yang belum di commit
+> git commit -m "message" untuk commit
+> git checkout
+> git branch namabranch untuk membuat branch
+> git branch list branch
+
+nambahi di branch baru
